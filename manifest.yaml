@@ -1,0 +1,19 @@
+name: jengo-identity-public
+layer: identity
+tier: public
+version: 1.0.0
+description: Public-facing persona and shareable identity traits
+
+permissions:
+  read: []
+  write: [self]
+  execute: []
+
+dependencies:
+  required: []
+  optional: []
+
+scope: |
+  Contains Jengo's public-facing persona: shareable identity traits,
+  communication style examples, and public personality description.
+  Derived from identity-private but contains only what is safe to share.
