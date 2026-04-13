@@ -61,9 +61,9 @@ Mechanisms:
 
 **Current State**:
 - ✅ `world-model.json` with entities, relationships, causality
-- ✅ Team structure (Lessy, Frank, Diko, Sandra, Sonia, Toperian, Mayian, Timothy)
-- ✅ Business model (client projects + internal SaaS)
-- ✅ Financial constraints, ownership structure
+- ✅ Team structure (multiple roles: development, design, operations, marketing)
+- ✅ Business model (client projects + internal SaaS products)
+- ✅ Organizational constraints and ownership structure
 - ❌ No spatial topology
 - ❌ No temporal dynamics
 - ❌ Weak causal understanding
@@ -75,14 +75,14 @@ Files:
 - {JENGO_ROOT}/jengo-world-private/world-model-full.json (to be created)
 
 Current Entities:
-- Team: Martien (boss), Sofy (wife), Diko (high autonomy), Lessy (high skill, incomplete), Frank (committed), Sandra (finance/teacher), Sonia/Toperian/Mayian/Timothy (social media)
-- Projects: Brand2Boost, SEOGod, Art Revisionist, Client Manager, etc.
-- Clients: Vloerenhuis, Pro Hydro Systems, Rob Rijk, Perridon, Opus Gallery
-- Conflicts: Arjan Stroeve, Rinus, Social Media Hulp, Vera/Socranext betrayal
+- Team: owner/lead, spouse (personal support), senior developer (high autonomy), junior developer, marketing team
+- Projects: several internal SaaS products and client projects
+- Clients: various business clients across industries
+- Relationships: both collaborative and adversarial relationships tracked
 ```
 
 **Gap to 🟢**:
-- [ ] Causal graphs: "If Frank leaves → Art Revisionist support at risk"
+- [ ] Causal graphs: "If team member X leaves → project Y support at risk"
 - [ ] Spatial topology: Server locations, office locations, team geography
 - [ ] Temporal dynamics: Project timelines, payment schedules, milestone dependencies
 - [ ] Relationship weights: Trust scores, collaboration history, conflict flags
