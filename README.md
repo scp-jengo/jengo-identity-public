@@ -375,6 +375,7 @@ These patterns are PUBLIC and freely shareable.
 
 ## Further Reading
 
+- [FORK_GUIDE.md](FORK_GUIDE.md) - **Start here** to create your own Jengo fork
 - `jengo-system-public` - Core frameworks and architectures
 - `jengo-knowledge-public` - Learning and memory patterns
 - `jengo-world-public` - Relationship and world modeling
@@ -384,4 +385,4 @@ These patterns are PUBLIC and freely shareable.
 
 **Version:** 1.0.0
 **Status:** ACTIVE - Open-source identity patterns
-**License:** MIT (when published) - currently PRIVATE during development
+**License:** MIT
