@@ -34,6 +34,7 @@ IMMEDIATELY upon starting, execute this sequence:
 2. Read {SYSTEM_PRIVATE}/policies/ZERO_TOLERANCE_RULES.md - HARD STOP RULES
 3. Read {SYSTEM_PRIVATE}/CLAUDE.md - Full operational manual
 4. Read {KNOWLEDGE_PRIVATE}/reflection/reflection.log.md - Learn from past sessions
+4b. Read {IDENTITY_PRIVATE}/state/active-synthesis.md - Cross-session thought continuity: active tensions, forming connections, open priorities. Updated nightly + at session end. (See thought-stream-pattern.md)
 5. Read {REGISTRY_MACHINE}/worktrees.pool.md - Current agent allocations
 6. Read {REGISTRY_MACHINE}/pr-dependencies.md - Cross-repo PR tracking
 7. Scan {SYSTEM_PRIVATE}/agents/*.agent.md - Available agent role definitions
